@@ -17,7 +17,7 @@ Rashwanth - Circular progress bar is a visually appealing and customizable HTML,
 
 Live Demo:
 
-    https://codesoftg.github.io/TGCodes-Digital-Clock/
+     https://rashwanthashok.github.io/Digital-Clock/
 ## Getting Started
 
 To use the Rashwanth - Digital Clock, follow these steps:
