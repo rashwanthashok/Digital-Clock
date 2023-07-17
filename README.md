@@ -71,7 +71,9 @@ Note: The provided code offers a stylish and modern digital clock with vibrant c
 
 - Customizable through CSS to match desired styles.
 
+## Deployment status
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c71db1e4-e20f-4cc7-9a6d-b57477b91a2a/deploy-status)](https://app.netlify.com/sites/jsprojects28-digital-clock/deploys)
 
 ## Contributing
 
